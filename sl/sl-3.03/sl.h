@@ -51,7 +51,7 @@
 #define COAL03 "    _________________         "
 #define COAL04 "   _|                \\_____A  "
 #define COAL05 " =|                        |  "
-#define COAL06 " -|  Darwin Agrinzones                      |  "
+#define COAL06 " -|  Darwin Agrinzones     |  "
 #define COAL07 "__|________________________|_ "
 #define COAL08 "|__________________________|_ "
 #define COAL09 "   |_D__D__D_|  |_D__D__D_|   "
